@@ -41,5 +41,5 @@ The Sales Project in Power BI provides a dynamic and accessible way to gain insi
 **Note:** This document provides a general overview. Specific details and instructions may vary depending on the actual implementation of your Sales Project in Power BI.
 
 
-[POWERBI LINK] (http://surl.li/mggyr)
+
 
