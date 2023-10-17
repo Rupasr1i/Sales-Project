@@ -42,4 +42,5 @@ The Sales Project in Power BI provides a dynamic and accessible way to gain insi
 
 
 
+[POWERBI LINK] (http://surl.li/mggyr)
 
