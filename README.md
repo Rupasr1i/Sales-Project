@@ -42,5 +42,5 @@ The Sales Project in Power BI provides a dynamic and accessible way to gain insi
 
 
 
-[POWERBI DASHBOARD LINK] (http://surl.li/mggyr)
+[POWERBI DASHBOARD LINK] (https://app.powerbi.com/links/SFAsIDKOLi?ctid=209a70f5-a678-4831-9798-ea1ea04aa9b8&pbi_source=linkShare)
 
